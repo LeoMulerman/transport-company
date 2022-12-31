@@ -120,4 +120,8 @@ font-weight: 500;
     .card {
         margin-bottom: 90px;
     }
+    .leo_area img {
+        width: 100%;
+        height: 300px ;
+    }
 }
