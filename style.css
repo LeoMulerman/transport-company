@@ -95,6 +95,10 @@ font-weight: 500;
     .img-area img {
         width: 100%;
     }
+    .leo_area img {
+        width: 100%;
+        height: 300px ;
+    }
 }
 @media only screen and (max-width: 767px){
     .navbar-nav {
